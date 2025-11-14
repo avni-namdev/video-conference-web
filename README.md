@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# Zoom
 A full stack video conferencing web application.
 =======
 ## Video Conference Web App
